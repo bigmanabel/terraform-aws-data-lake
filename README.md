@@ -388,7 +388,7 @@ terraform validate
 
 **📄 Licensed under the MIT License**
 
-Built with ❤️ by the Data Engineering Team
+Built with ❤️ Code Breakers
 
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
